@@ -12,6 +12,7 @@ code, with visualisations.
 
 ## Examples
 
+![](./animations/epochs.gif)
 ![](./animations/optimal.gif)
 ![](./animations/local_maxima.gif)
 ![](./animations/plateau.gif)
